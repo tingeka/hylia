@@ -1,4 +1,9 @@
 ---
 label: Prueba
 hide_body: false
-fields: []
+fields:
+- name: asd
+  type: text
+  config:
+    required: false
+  label: asd
